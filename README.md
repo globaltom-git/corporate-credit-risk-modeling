@@ -5,7 +5,7 @@
 
 <img width="579" height="435" alt="Capture d&#39;écran 2026-01-14 160215" src="https://github.com/user-attachments/assets/490ad78f-dd23-459d-aeb7-c8440639c05c" />
 
-*SHAP analysis: Fiscal year (economic cycle) and Industry classification (division and majorgroup) dominate default risk drivers, before financial metrics. 
+*SHAP analysis: Fiscal year (economic cycle) and Industry classification (division and majorgroup) dominate default risk drivers, before financial metrics.* 
 
 ## Business Context
 
