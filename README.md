@@ -39,7 +39,7 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 ## Repository Contents
 
 - `notebooks/credit_risk_full_pipeline.ipynb` → End-to-end: preprocessing, modeling, SHAP analysis  
-- `data/sample_data.csv` → Anonymized/synthetic sample (full dataset proprietary)  
+- `data/american_bankruptcy_dataset_enriched_sample` → Anonymized/synthetic sample (full dataset proprietary)  
 - `plots/` → SHAP bar, beeswarm, feature importance visuals  
 - `requirements.txt` → Dependencies (shap, lightgbm, pandas, scikit-learn, matplotlib)
 
