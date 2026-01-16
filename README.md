@@ -46,7 +46,7 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 ## How to Run
 
 ```bash
-git clone https://github.com/[ton-username]/corporate-credit-risk-modeling.git
+git clone https://github.com/globaltom-git/corporate-credit-risk-modeling.git
 cd corporate-credit-risk-modeling
 pip install -r requirements.txt
 jupyter lab notebooks/credit_risk_full_pipeline.ipynb
