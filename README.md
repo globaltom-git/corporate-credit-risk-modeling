@@ -36,12 +36,16 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 
 **Insight** : fiscal year and Sector risk outweighs many financial ratios — consistent with real-world due diligence and PE practices.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/globaltom-git/corporate-credit-risk-modeling/blob/master/credit_risk_full_pipeline.ipynb)
+
 ## Repository Contents
 
 - `notebooks/credit_risk_full_pipeline.ipynb` → End-to-end: preprocessing, modeling, SHAP analysis  
 - `data/american_bankruptcy_dataset_enriched_sample.csv` → Anonymized/synthetic sample (full dataset proprietary)  
 - `plots/` → SHAP bar, beeswarm, feature importance visuals  
 - `requirements.txt` → Dependencies (shap, lightgbm, pandas, scikit-learn, matplotlib)
+- '.gitignore'
+- 'License'
 
 ## How to Run
 
