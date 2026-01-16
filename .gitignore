@@ -1,18 +1,30 @@
-# Python & Jupyter
+# Python/ML
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
 .venv/
 venv/
-*.egg-info/
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# Données (à décommenter selon ton choix)
-*.csv
+# Datasets (garder SEULEMENT sample_bankruptcy_data.csv)
+american_bankruptcy_dataset_enriched*.csv
+data/
+raw_data/
 
-# Mac / Windows
+# Modèles (optionnel)
+models/
+*.joblib
+*.pkl
+*.h5
+
+# Logs/Outputs
+*.log
+logs/
+outputs/
+
+# OS/IDE
 .DS_Store
-Thumbs.db
+.vscode/
+.idea/
