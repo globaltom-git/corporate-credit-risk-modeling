@@ -1,0 +1,12 @@
+# requirements.txt
+# Packages utilisés dans le notebook de modélisation de risque de crédit
+
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0          # RandomForest, pipelines, metrics, preprocessing
+imbalanced-learn>=0.12.0     # SMOTE, etc.
+matplotlib>=3.9.0            # plots, SHAP viz
+shap>=0.46.0                 # SHAP values et plots (compat récent XGBoost/LightGBM)
+lightgbm>=4.3.0              # gradient boosting rapide
+xgboost>=2.0.0               # gradient boosting classique
+tensorflow>=2.16.0           # Keras models (si tu gardes les NN)
