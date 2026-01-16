@@ -44,8 +44,8 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 - `data/american_bankruptcy_dataset_enriched_sample.csv` → Anonymized/synthetic sample (full dataset proprietary)  
 - `plots/` → SHAP bar, beeswarm, feature importance visuals  
 - `requirements.txt` → Dependencies (shap, lightgbm, pandas, scikit-learn, matplotlib)
-- '.gitignore'
-- 'License'
+- `.gitignore`
+- `License`
 
 ## How to Run
 
