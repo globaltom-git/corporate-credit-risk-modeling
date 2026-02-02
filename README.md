@@ -34,7 +34,7 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 9. Current assets
 10. Inventory 
 
-**Insight** : fiscal year and Sector risk outweighs many financial ratios — consistent with real-world due diligence and PE practices.
+**Insight** : retained earnnings and fiscal year outweighs many financial ratios — consistent with real-world due diligence and PE practices.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/globaltom-git/corporate-credit-risk-modeling/blob/master/credit_risk_full_pipeline.ipynb)
 
