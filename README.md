@@ -3,7 +3,7 @@
 
 **Bridging 20+ years of corporate finance, investment control & advisory with modern machine learning for interpretable default prediction.**
 
-![image(1)](https://github.com/user-attachments/assets/7f2b7f16-7118-4968-9def-6b0fcc239fd2)
+![image(2)](https://github.com/user-attachments/assets/82d24664-8a1b-4525-9f34-722b44d5ec0d)
 
 *SHAP analysis: retained earnings, fiscal year (economic cycle) dominate default risk drivers, before Ebit and macro sectorial classification.* 
 
