@@ -23,16 +23,16 @@ The focus is on **explainable models** (SHAP values) to support regulated credit
 - **Models** : Clustering, Random Forest, LightGBM, Neural Networks, SMOTE for class imbalance  
 - **Metrics** : AUC / Precision-Recall emphasis (imbalanced defaults)  
 - **Top SHAP Drivers** (mean absolute values) :
-  1. fyear, fiscal year (cycle/macro effects) is the dominant driver
-  2. division, a macro industrial classification is a second dominant trigger
-  3. majorgroup, a micro industrial classification     
-  4. long term debts
-  5. edbitda
-  6. ebit  
-  7. net sales 
-  8. gross profit  
-  9. total assets  
-  10. total receivables  
+1. Retained Earnings (accumulated undistributed profits) → by far the #1 driver
+2. Fiscal year → macro cycle effect is massive
+3. EBIT
+4. Division (broad macro-sector)
+5. Total long-term debts
+6. EBITDA
+7. Total revenue
+8. Net income
+9. Current assets
+10. Inventory 
 
 **Insight** : fiscal year and Sector risk outweighs many financial ratios — consistent with real-world due diligence and PE practices.
 
