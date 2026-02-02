@@ -3,9 +3,9 @@
 
 **Bridging 20+ years of corporate finance, investment control & advisory with modern machine learning for interpretable default prediction.**
 
-<img width="579" height="435" alt="Capture d&#39;écran 2026-01-14 160215" src="https://github.com/user-attachments/assets/490ad78f-dd23-459d-aeb7-c8440639c05c" />
+<img width="579" height="435" alt="Credit risk mean shap value" src="https://github.com/user-attachments/assets/541c4919-8a1b-46c9-95db-e1b7370b08cb)" />
 
-*SHAP analysis: Fiscal year (economic cycle) and Industry classification (division and majorgroup) dominate default risk drivers, before financial metrics.* 
+*SHAP analysis: retained earnings, fiscal year (economic cycle) dominate default risk drivers, before Ebit and macro sectorial classification.* 
 
 ## Business Context
 
