@@ -1,30 +1,18 @@
-# Python/ML
+# fichiers dérivés, reconstruits par les étapes 1 et 2
+v8_base.csv
+v8_features.csv
+v8_predictions_test.csv
+v8_model_lgbm.txt
+
+# données source complètes (publiques, à télécharger séparément)
+american_bankruptcy_dataset.csv
+enhanced_bankruptcy_dataset.csv
+american_bankruptcy_dataset_enriched.csv
+american_bankruptcy_dataset_header.csv
+
+# contenu éditorial, hors dépôt de code
+article_V8_*.html
+
 __pycache__/
 *.pyc
-.venv/
-venv/
-*.pyd
-
-# Jupyter
 .ipynb_checkpoints/
-
-# Datasets (garder SEULEMENT sample_bankruptcy_data.csv)
-american_bankruptcy_dataset_enriched*.csv
-data/
-raw_data/
-
-# Modèles (optionnel)
-models/
-*.joblib
-*.pkl
-*.h5
-
-# Logs/Outputs
-*.log
-logs/
-outputs/
-
-# OS/IDE
-.DS_Store
-.vscode/
-.idea/
